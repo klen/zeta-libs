@@ -15,7 +15,7 @@ jQuery
 jQuery_ is a fast and concise JavaScript Library.
 Current version 1.7
 
-.. code-block:: javascript
+::
 
     require("zeta://jquery.js");
 
@@ -26,7 +26,7 @@ Undercore
 Undercore_ is library that provides a lot of the functional programming support
 Current version 1.2.2
 
-.. code-block:: javascript
+::
 
     require("zeta://underscore.js");
 
@@ -37,7 +37,7 @@ Blueprint
 Blueprint_ is a CSS framework
 Current version 1.0
 
-.. code-block:: css
+::
 
     
     /* All blueprint \*/
@@ -54,7 +54,7 @@ Boilerplate
 HTML5 Boilerplate_ is a professional front-end template
 Current version: 2.0
 
-.. code-block:: css
+::
 
     @import url("zeta://boilerplate.css");
 
@@ -66,12 +66,12 @@ Compass_ is a stylesheet authoring scss framework.
 Current version 0.12
 
 From css file: 
-.. code-block:: css
+::
 
     @import url("zeta://compass/reset.scss");
 
 From scss file: 
-.. code-block:: scss
+::
 
     // All compass zeta-style
     @import url("zeta://compass.scss");
