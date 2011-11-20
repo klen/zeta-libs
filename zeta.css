@@ -1,7 +1,6 @@
-/* 
-Zeta is a static framework.
-
- */
+/* Zeta is a static framework.
+Version 0.1
+https://github.com/klen/zeta-libs */
 @import url(zeta/z-reset/z-reset.css);
 @import url(zeta/z-base/z-base.scss);
 @import url(zeta/z-typography/z-typography.css);

@@ -1,7 +1,6 @@
-/* 
-Part of zeta framework. Include jQuery.
-
- */
+/* Zeta is a static framework.
+Version 0.1
+https://github.com/klen/zeta-libs */
 
 require("jquery.js");
 
