@@ -1,0 +1,8 @@
+/* Blueprint is a CSS framework */
+/* http://www.blueprintcss.org/ */
+/* Version 1.0 */
+
+@import url('blueprint/reset.css');
+@import url('blueprint/typography.css');
+@import url('blueprint/forms.css');
+@import url('blueprint/grid.css');
